@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm <a href="www.linkedin.com/in/julia-devine-560aba303">Julia </a>, a recent graduate excited to apply my academic knowledge and adaptability to real-world IT challenges.</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
