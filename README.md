@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring IT Professional | Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/juliadevine04" target="_blank">
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/juliadevine04)
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your.email@example.com">
