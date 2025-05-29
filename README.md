@@ -14,7 +14,7 @@
 
 ## 💻 About Me
 
-I'm a recent graduate with a strong foundation in Information Technology, cloud computing, and help desk support systems. I love working with systems, solving problems, and learning new tools that make businesses run smarter.
+I am a recent graduate with a strong foundation in Information Technology, cloud computing, and help desk support systems. I love working with systems, solving problems, and learning new tools that make businesses run smarter.
 
 ---
 
@@ -33,7 +33,7 @@ I'm a recent graduate with a strong foundation in Information Technology, cloud 
 
 ## 🤝 Connect with Me
 
-- 📫 Email: your.email@example.com
+- 📫 Email: juliadevine4@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/julia-devine-560aba303)
 
 Thanks for visiting! ✨
