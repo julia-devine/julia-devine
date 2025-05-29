@@ -18,18 +18,6 @@ I'm a recent graduate with a strong foundation in Information Technology, cloud 
 
 ---
 
-## 🛠️ Skills & Tools
-
-| Category       | Tools & Technologies                             |
-|----------------|--------------------------------------------------|
-| **Languages**  | PowerShell, Bash, HTML/CSS                       |
-| **Cloud**      | Microsoft Azure, Azure VMs, NSGs                 |
-| **Systems**    | Windows Server, Active Directory, DNS, DHCP      |
-| **IT Tools**   | osTicket, Remote Desktop, IIS                    |
-| **Other**      | Git, GitHub, VS Code, Troubleshooting, Security  |
-
----
-
 ## 📁 Featured Projects
 
 ### 🎫 osTicket Help Desk Series
