@@ -43,18 +43,6 @@ I'm a recent graduate with a strong foundation in Information Technology, cloud 
 
 ---
 
-## 📈 GitHub Stats (Optional)
-
-<!-- These only work if you make it your main GitHub profile README -->
-<!-- Replace "julia-devine" with your actual GitHub username -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julia-devine&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-devine&layout=compact&theme=radical" height="165">
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 - 📫 Email: your.email@example.com
