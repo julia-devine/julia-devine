@@ -2,10 +2,10 @@
 <h3 align="center">Aspiring IT Professional | Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
-  <[LinkedIn Profile](https://www.linkedin.com/in/juliadevine04)>
-   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/juliadevine04" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:juliadevine4@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -33,7 +33,7 @@ I am a recent graduate with a strong foundation in Information Technology, cloud
 
 ## 🤝 Connect with Me
 
-- 📫 Email: juliadevine4@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/julia-devine-560aba303)
+- 📫 Email: juliadevine4@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/juliadevine04)
 
 Thanks for visiting! ✨
