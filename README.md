@@ -9,7 +9,7 @@ Hi there!
 
 I am a recent graduate with a Master of Science in Health Information Technology from the University of Michigan-Dearborn, eager to kickstart my career in Information Technology. While I am just starting my professional journey, I am excited to contribute my skills and learn from experienced professionals in a dynamic IT environment. 
 
-This GitHub portfolio is a showcase of my personal projects, where I've applied my skills to solve real-world problems and explore new technologies. Feel free to explore my repositories, and don't hesitate to connect!
+This GitHub portfolio is a showcase of my personal projects, where I've applied my skills to explore new technologies. Feel free to explore my repositories, and don't hesitate to connect!
 
 ---
 
