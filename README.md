@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Julia Devine </h1>
+<h1 align="center">Hi, I'm Julia </h1>
 <h3 align="center">IT Professional | Problem Solver | Lifelong Learner</h3>
 
 ---
